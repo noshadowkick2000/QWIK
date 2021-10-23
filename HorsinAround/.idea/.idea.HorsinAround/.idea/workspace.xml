@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b4803e3d-fd59-406b-8e31-528a502692e1" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Server/Mini Games/Musical Chairs/MusicalChairsController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Server/Networking/TcpServer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Server/Mini Games/Musical Chairs/MusicalChairs.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Debug resources/KeyboardPlayer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Server/Board Scene/MainMenu.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Server/Networking/CommProtocol.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Server/Board Scene/CameraAnchor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/394C8FAE-4BA1-4DD2-A259-BD441D5BEF25/ae/c87bcc52/TcpListener.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E81851A0-DC73-4A79-AFA9-F5B7273162BE/fc/4661cca9/List`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Debug resources/PartyCreator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Server/Global/MainMenu.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Graphics/Scroll.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Server/Board Scene/CameraTransitioner.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Debug resources/DebugConsole.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Debug resources/DebugController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Client/TcpController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Client/SwipeInputTester.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Singleton.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Client/ClientMain.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Debug resources/JoyStickPhysics.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/FAA55637-FCC1-4BBF-B146-E6835A4641D9/ea/7600c07f/Physics.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Client/SwipeInput.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Server/Global/Controller.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Server/Global/Party.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Server/Global/Player.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Server/Global/HostPlayer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Unity-UI-Rounded-Corners/UiRoundedCorners/ImageWithRoundedCorners.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/Object.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CameraAnchor.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerAttack.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Singleton.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/TCPConnect.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/TCPServe.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/TcpController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MainMenu.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/LobbyTrigger.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CommProtocol.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/TcpServer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/IController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Party.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/HostPlayer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MusicalChairsController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Debug resources/KeyboardPlayer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MusicalChairs.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Server/Mini Games/Musical Chairs/MusicalChairs.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Server/Mini Games/Musical Chairs/MusicalChairsController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Debug resources/JoyStickPhysics.cs" />
+        <option value="$PROJECT_DIR$/Assets/Graphics/Scroll.shader" />
+        <option value="$PROJECT_DIR$/Assets/Debug resources/DebugController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Debug resources/PartyCreator.cs" />
+        <option value="$PROJECT_DIR$/Assets/Debug resources/DebugConsole.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Client/ClientMain.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Client/SwipeInputTester.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Client/TcpController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Client/SwipeInput.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Server/Global/Player.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Server/Global/HostPlayer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Server/Global/Party.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Server/Global/MainMenu.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Server/Board Scene/CameraTransitioner.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Server/Board Scene/MainMenu.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Server/Networking/TcpServer.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1pwvSdG8zfKH3V5qLIh4e15mOLW" />
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="userSelectedPid" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost" pid="13192">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" value="13192" />
+      <option name="userSelectedPid" value="false" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b4803e3d-fd59-406b-8e31-528a502692e1" name="Default Changelist" comment="" />
+      <created>1616106968312</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616106968312</updated>
+      <workItem from="1616106971459" duration="4789000" />
+      <workItem from="1616171788402" duration="1051000" />
+      <workItem from="1616239602906" duration="11573000" />
+      <workItem from="1616278803536" duration="3761000" />
+      <workItem from="1616357876116" duration="3964000" />
+      <workItem from="1616367569687" duration="270000" />
+      <workItem from="1616621991728" duration="4578000" />
+      <workItem from="1616668209422" duration="2064000" />
+      <workItem from="1616694691611" duration="1340000" />
+      <workItem from="1616715863910" duration="202000" />
+      <workItem from="1616716080703" duration="801000" />
+      <workItem from="1616778792931" duration="4882000" />
+      <workItem from="1616797995146" duration="1504000" />
+      <workItem from="1616801602302" duration="2014000" />
+      <workItem from="1616845426893" duration="6045000" />
+      <workItem from="1616885286582" duration="6000" />
+      <workItem from="1617483903591" duration="1114000" />
+      <workItem from="1617552491178" duration="1099000" />
+      <workItem from="1617555826381" duration="1885000" />
+      <workItem from="1617558880597" duration="3292000" />
+      <workItem from="1617562306841" duration="792000" />
+      <workItem from="1621587905428" duration="968000" />
+      <workItem from="1621591018393" duration="1753000" />
+      <workItem from="1621783488691" duration="1284000" />
+      <workItem from="1634058674471" duration="4400000" />
+      <workItem from="1634070458402" duration="913000" />
+      <workItem from="1634132807132" duration="2859000" />
+      <workItem from="1634562387637" duration="1990000" />
+      <workItem from="1634578951321" duration="2570000" />
+      <workItem from="1634644214716" duration="4095000" />
+      <workItem from="1634649668657" duration="458000" />
+      <workItem from="1634650621386" duration="3717000" />
+      <workItem from="1634668231190" duration="431000" />
+      <workItem from="1635005404469" duration="1808000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

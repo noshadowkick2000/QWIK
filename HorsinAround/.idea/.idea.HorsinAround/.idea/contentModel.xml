@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\nsk20\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\nsk20\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_HorsinAround.-1667255950.00" t="ExcludeRecursive" />
+    <e p="C:\Users\nsk20\Desktop\UnityArchive\HorsinAround" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Debug resources" t="Include">
+          <e p="DebugConsole.cs" t="Include" />
+          <e p="DebugController.cs" t="Include" />
+          <e p="JoyStickPhysics.cs" t="Include" />
+          <e p="KeyboardPlayer.cs" t="Include" />
+          <e p="PartyCreator.cs" t="Include" />
+        </e>
+        <e p="Graphics" t="Include">
+          <e p="Scroll.shader" t="Include" />
+        </e>
+        <e p="Hologram_master" t="Include">
+          <e p="Editor" t="Include">
+            <e p="Foldout.cs" t="Include" />
+            <e p="HologramShaderGUI.cs" t="Include" />
+            <e p="Layout.cs" t="Include" />
+          </e>
+          <e p="Hologram.shader" t="Include" />
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="Client" t="Include">
+            <e p="ClientMain.cs" t="Include" />
+            <e p="SwipeInput.cs" t="Include" />
+            <e p="SwipeInputTester.cs" t="Include" />
+            <e p="TcpController.cs" t="Include" />
+          </e>
+          <e p="Server" t="Include">
+            <e p="Board Scene" t="Include">
+              <e p="CameraAnchor.cs" t="Include" />
+              <e p="CameraTransitioner.cs" t="Include" />
+              <e p="LobbyTrigger.cs" t="Include" />
+              <e p="MainMenu.cs" t="Include" />
+              <e p="Object.cs" t="Include" />
+              <e p="PlayerAttack.cs" t="Include" />
+            </e>
+            <e p="Global" t="Include">
+              <e p="Controller.cs" t="Include" />
+              <e p="HostPlayer.cs" t="Include" />
+              <e p="MainMenu.cs" t="Include" />
+              <e p="Party.cs" t="Include" />
+              <e p="Player.cs" t="Include" />
+              <e p="PlayerController.cs" t="Include" />
+            </e>
+            <e p="Mini Games" t="Include">
+              <e p="Musical Chairs" t="Include">
+                <e p="MusicalChairs.cs" t="Include" />
+                <e p="MusicalChairsController.cs" t="Include" />
+              </e>
+            </e>
+            <e p="Networking" t="Include">
+              <e p="CommProtocol.cs" t="Include" />
+              <e p="TcpServer.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Singleton.cs" t="Include" />
+        </e>
+        <e p="TextMesh Pro" t="Include">
+          <e p="Fonts" t="Include">
+            <e p="LiberationSans - OFL.txt" t="Include" />
+          </e>
+          <e p="Resources" t="Include">
+            <e p="LineBreaking Following Characters.txt" t="Include" />
+            <e p="LineBreaking Leading Characters.txt" t="Include" />
+          </e>
+          <e p="Shaders" t="Include">
+            <e p="TMP_Bitmap-Custom-Atlas.shader" t="Include" />
+            <e p="TMP_Bitmap-Mobile.shader" t="Include" />
+            <e p="TMP_Bitmap.shader" t="Include" />
+            <e p="TMP_SDF Overlay.shader" t="Include" />
+            <e p="TMP_SDF SSD.shader" t="Include" />
+            <e p="TMP_SDF-Mobile Masking.shader" t="Include" />
+            <e p="TMP_SDF-Mobile Overlay.shader" t="Include" />
+            <e p="TMP_SDF-Mobile SSD.shader" t="Include" />
+            <e p="TMP_SDF-Mobile.shader" t="Include" />
+            <e p="TMP_SDF-Surface-Mobile.shader" t="Include" />
+            <e p="TMP_SDF-Surface.shader" t="Include" />
+            <e p="TMP_SDF.shader" t="Include" />
+            <e p="TMP_Sprite.shader" t="Include" />
+            <e p="TMPro.cginc" t="Include" />
+            <e p="TMPro_Mobile.cginc" t="Include" />
+            <e p="TMPro_Properties.cginc" t="Include" />
+            <e p="TMPro_Surface.cginc" t="Include" />
+          </e>
+          <e p="Sprites" t="Include">
+            <e p="EmojiOne Attribution.txt" t="Include" />
+          </e>
+        </e>
+        <e p="Tutorial_Info" t="Include">
+          <e p="Scripts" t="Include">
+            <e p="Editor" t="Include">
+              <e p="ReadmeEditor.cs" t="Include" />
+            </e>
+            <e p="Readme.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Unity-UI-Rounded-Corners" t="Include">
+          <e p="UiRoundedCorners" t="Include">
+            <e p="ImageWithIndependentRoundedCorners.cs" t="Include" />
+            <e p="ImageWithRoundedCorners.cs" t="Include" />
+            <e p="IndependentRoundedCorners.shader" t="Include" />
+            <e p="RoundedCorners.shader" t="Include" />
+            <e p="SDFUtils.cginc" t="Include" />
+            <e p="ShaderSetup.cginc" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="HorsinAround.sln" t="IncludeFlat" />
+      <e p="Nobi.UiRoundedCorners.csproj" t="IncludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

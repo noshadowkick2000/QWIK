@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/Client.unity
+    guid: a8eecefb43c096045a54e8f6d85e5408
+  - enabled: 0
+    path: Assets/Scenes/MusicalChairs.unity
+    guid: ce0f9422fd6042a4dbdfb29f0c399fa0
+  - enabled: 0
+    path: Assets/Debug resources/DebugNetworkLobby.unity
+    guid: fd3d97c2a102b8d429f4773c58dcabe1
+  - enabled: 0
+    path: Assets/Debug resources/ControllerDebug.unity
+    guid: ee681899a56566d4b8493d6d28c4c9dd
+  m_configObjects: {}
